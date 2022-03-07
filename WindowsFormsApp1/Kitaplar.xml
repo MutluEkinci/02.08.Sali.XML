@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kitaplar>
+  <Kitap KitapID="123">
+    <Ad>Suç ve Ceza</Ad>
+    <Yazar>Dostoyevski</Yazar>
+    <Fiyat>40</Fiyat>
+  </Kitap>
+  <Kitap KitapID="155">
+    <Ad>Falaka</Ad>
+    <Yazar>Ömer Seyfettin</Yazar>
+    <Fiyat>25</Fiyat>
+  </Kitap>
+  <Kitap KitapID="333">
+    <Ad>Kumarbaz</Ad>
+    <Yazar>Dostoyevski</Yazar>
+    <Fiyat>33</Fiyat>
+  </Kitap>
+  <Kitap KitapID="444">
+    <Ad>Pascal</Ad>
+    <Yazar>John Wayne</Yazar>
+    <Fiyat>23</Fiyat>
+  </Kitap>
+</Kitaplar>
